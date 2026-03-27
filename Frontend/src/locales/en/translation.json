@@ -1,0 +1,115 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "shop": "Shop",
+    "community": "Community",
+    "swaps": "Swaps",
+    "donate": "Donate",
+    "login": "Log in",
+    "signup": "Sign up",
+    "logout": "Log out",
+    "messages": "Messages",
+    "admin": "Admin"
+  },
+  "banner": "Sustainable Fashion Starts Here",
+  "home": {
+    "hero_title_1": "Give Your Clothes a ",
+    "hero_title_2": "Second Life",
+    "hero_desc": "Buy, sell, swap, and donate pre-loved fashion. Join the movement that's making style sustainable and accessible for everyone.",
+    "browse_clothes": "Browse Clothes",
+    "join_thrifto": "Join Thrifto",
+    "how_it_works": "How Thrifto Works",
+    "how_it_works_desc": "A complete ecosystem for sustainable fashion — from buying to swapping to donating.",
+    "features": {
+      "eco_marketplace": "Shop Marketplace",
+      "eco_marketplace_desc": "Browse and buy affordable pre-loved clothing. Give fashion a second life.",
+      "clothes_swap": "Swap & Share",
+      "clothes_swap_desc": "Exchange items you no longer wear for something you love. Zero waste, full style.",
+      "donate": "Donate & Share",
+      "donate_desc": "Donate clothes to those in need and earn EcoPoints for every contribution.",
+      "rewards": "EcoPoints Rewards",
+      "rewards_desc": "Earn points for sustainable actions—swapping, donating, and upcycling."
+    },
+    "stats": {
+      "items_listed": "Items Listed",
+      "swaps_made": "Swaps Made",
+      "donations": "Donations",
+      "ecopoints": "EcoPoints Earned"
+    },
+    "cta_title": "Ready to Make Fashion Sustainable?",
+    "cta_desc": "Join our community of conscious shoppers making a difference, one outfit at a time.",
+    "get_started": "Get Started for Free",
+    "explore": "Explore"
+  },
+  "footer": {
+    "description": "Sustainable fashion for a better tomorrow. Buy, sell, swap, and donate pre-loved clothing while earning EcoPoints.",
+    "explore": "Explore",
+    "account": "Account",
+    "profile": "Profile Dashboard",
+    "help": "Help Center",
+    "sustainability_title": "Sustainability",
+    "sustainability_desc": "Every item re-used helps reduce textile waste. Join thousands choosing conscious fashion."
+  },
+  "cart": {
+    "title": "Your Shopping Cart",
+    "empty_title": "Your cart is empty",
+    "empty_desc": "Looks like you haven't added any items yet.",
+    "clear_cart": "Clear Cart",
+    "proceed_checkout": "Proceed to Checkout"
+  },
+  "shop": {
+    "title": "Fashion Marketplace",
+    "subtitle": "Discover unique pre-loved items",
+    "filters": "Filters",
+    "all_types": "All Types",
+    "for_sale": "For Sale",
+    "for_swap": "For Swap",
+    "donations": "Donations",
+    "price_range": "Price Range",
+    "add_to_cart": "Add to Cart",
+    "buy_now": "Buy Now",
+    "details": "View Details",
+    "search_placeholder": "Search clothes...",
+    "search_button": "Search",
+    "filters_button": "Filters"
+  },
+  "categories": {
+    "all": "All Categories",
+    "tops": "Tops",
+    "bottoms": "Bottoms",
+    "dresses": "Dresses",
+    "outerwear": "Outerwear",
+    "shoes": "Shoes",
+    "accessories": "Accessories",
+    "other": "Other"
+  },
+  "conditions": {
+    "new": "New",
+    "like-new": "Like New",
+    "good": "Good",
+    "fair": "Fair",
+    "worn": "Worn"
+  },
+  "donate": {
+    "title": "Donate Clothes",
+    "subtitle": "Help others and earn rewards",
+    "form_title": "Donation Details",
+    "item_title": "Item Title",
+    "category": "Category",
+    "condition": "Condition",
+    "quantity": "Quantity",
+    "pickup_location": "Pickup Location",
+    "submit": "Submit Donation",
+    "upload_images": "Upload Images"
+  },
+  "common": {
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "message": "Message",
+    "success": "Success",
+    "error": "Error"
+  }
+}
